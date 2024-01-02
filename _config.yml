@@ -86,7 +86,7 @@ author:
   location         : "New Haven, CT, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wOGPwdMAAAAJ&hl=en&oi=ao"
   email            : "iason.ofeidis [at] yale [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/iofeidis"
+  github           : "iofeidis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/iason-ofeidis-245913173/"
+  linkedin         : "iason-ofeidis-245913173/"
   orcid            : # "https://orcid.org/0000-0001-8206-8321"
   pinterest        :
   soundcloud       :
