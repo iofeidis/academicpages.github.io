@@ -12,7 +12,7 @@ author_profile: true
 
 - Kyriazis, A., **Ofeidis, I.**, & Palaiokrassas, G. *"[Monetary Policy, Digital Assets, and DeFi Activity.](https://arxiv.org/pdf/2302.10252)"* arXiv preprint arXiv:2302.10252 (2023).
   
-- Palaiokrassas, G., Scherrers, S., **Ofeidis, I.**, & Tassiulas, L. *"Leveraging machine learning for multichain defi fraud detection."* In 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC) (pp. 678-680). IEEE.
+- Palaiokrassas, G., Scherrers, S., **Ofeidis, I.**, & Tassiulas, L. *"[Leveraging machine learning for multichain defi fraud detection.](https://ieeexplore.ieee.org/abstract/document/10634350)"* In 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC) (pp. 678-680). IEEE.
 
 
 {% if author.googlescholar %}
